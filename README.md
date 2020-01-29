@@ -8,4 +8,4 @@ Contact Card is a personal business card. Imagine every time you wanted to give 
 
 
 
-![](https://raw.githubusercontent.com/SurendraKumarjuet/Contact-Card/master/images/shadow.gif)
+![Author](https://raw.githubusercontent.com/SurendraKumarjuet/Contact-Card/master/images/shadow.gif)
