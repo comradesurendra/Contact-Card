@@ -1,4 +1,4 @@
-![App Brewery Banner](https://drive.google.com/file/d/1LUqCTsa9rsWUp-ZLUtcrolDhdcnlFga-/view?usp=sharing)
+![App Image](https://drive.google.com/file/d/1LUqCTsa9rsWUp-ZLUtcrolDhdcnlFga-/view?usp=sharing)
 
 # Contact Card
 
